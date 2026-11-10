@@ -1,0 +1,25 @@
+feature,importance
+num__is_peak_hour,0.16861121
+num__hour,0.15033925
+cat__weather_Storm,0.0970585
+cat__weather_Clear,0.09345609
+cat__weather_Mist,0.092621595
+num__is_weekend,0.07657136
+num__hour_cos,0.07593484
+cat__weather_Heavy Rain,0.0731227
+num__hour_sin,0.070520885
+cat__weather_Light Rain,0.042905807
+num__day_of_week,0.033063233
+cat__season_Autumn,0.006145637
+num__month,0.0059833787
+cat__season_Winter,0.0030874615
+num__month_sin,0.0024005584
+num__temp (°C),0.0018846344
+cat__season_Monsoon,0.00094840745
+cat__season_Spring,0.0008734152
+num__day,0.0007965744
+num__month_cos,0.0007922943
+num__windspeed (m/s),0.0007630593
+num__humidity (%),0.00074530736
+cat__season_Summer,0.00071900315
+num__is_holiday,0.0006548055
